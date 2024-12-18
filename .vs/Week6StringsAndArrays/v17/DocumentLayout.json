@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jekaterina\\source\\repos\\Week6StringsAndArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF58163-FE62-409F-BF95-9D4A36CE0C59}|RandomElement\\RandomElement.csproj|c:\\users\\jekaterina\\source\\repos\\week6stringsandarrays\\randomelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF58163-FE62-409F-BF95-9D4A36CE0C59}|RandomElement\\RandomElement.csproj|solutionrelative:randomelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACBC800-266A-4077-842F-73342179AA30}|NumberArrays\\NumberArrays.csproj|c:\\users\\jekaterina\\source\\repos\\week6stringsandarrays\\numberarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACBC800-266A-4077-842F-73342179AA30}|NumberArrays\\NumberArrays.csproj|solutionrelative:numberarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD637A0-3748-43EE-AAE9-EBC33E8A9F3E}|Arrays\\Arrays.csproj|c:\\users\\jekaterina\\source\\repos\\week6stringsandarrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD637A0-3748-43EE-AAE9-EBC33E8A9F3E}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CAA300-54C2-4AFC-A458-47B39E385C11}|Week6StringsAndArrays\\Week6StringsAndArrays.csproj|c:\\users\\jekaterina\\source\\repos\\week6stringsandarrays\\week6stringsandarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CAA300-54C2-4AFC-A458-47B39E385C11}|Week6StringsAndArrays\\Week6StringsAndArrays.csproj|solutionrelative:week6stringsandarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jekaterina\\source\\repos\\Week6StringsAndArrays\\RandomElement\\Program.cs",
+              "RelativeDocumentMoniker": "RandomElement\\Program.cs",
+              "ToolTip": "C:\\Users\\Jekaterina\\source\\repos\\Week6StringsAndArrays\\RandomElement\\Program.cs",
+              "RelativeToolTip": "RandomElement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:39:23.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jekaterina\\source\\repos\\Week6StringsAndArrays\\NumberArrays\\Program.cs",
+              "RelativeDocumentMoniker": "NumberArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Jekaterina\\source\\repos\\Week6StringsAndArrays\\NumberArrays\\Program.cs",
+              "RelativeToolTip": "NumberArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:35:07.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jekaterina\\source\\repos\\Week6StringsAndArrays\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Jekaterina\\source\\repos\\Week6StringsAndArrays\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:27:15.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jekaterina\\source\\repos\\Week6StringsAndArrays\\Week6StringsAndArrays\\Program.cs",
+              "RelativeDocumentMoniker": "Week6StringsAndArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Jekaterina\\source\\repos\\Week6StringsAndArrays\\Week6StringsAndArrays\\Program.cs",
+              "RelativeToolTip": "Week6StringsAndArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:16:54.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
